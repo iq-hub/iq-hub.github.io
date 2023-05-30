@@ -5,12 +5,12 @@ export default [
         faculty: "Commerce"
     },
     {
-        img: "ajay-pandey.png",
+        img: "vijay-sir.jpeg",
         teacher: "Vijay Shankar Pal",
         faculty: "Science"
     },
     {
-        img: "ajay-pandey.png",
+        img: "ravi-sir-r.jpeg",
         teacher: "Ravi Shankar Pal",
         faculty: "Mathematics"
 
